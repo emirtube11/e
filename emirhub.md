@@ -145,7 +145,7 @@ loadstring(game:HttpGet("loadstring(game:HttpGet("https://raw.githubusercontent.
     end
 })
 Page.Button({
-    Text = "Big Paintball",
+    Text = "Squid Game (Game id 7502447797)",
     Callback = function()
         
 
@@ -153,7 +153,7 @@ Page.Button({
 
 
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/emirtube11/BIG-Paintball/main/README.md",true))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NocturneMoDz/Squid-Game/main/SCRIPT",true))();
 
 
 
