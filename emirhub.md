@@ -1,3 +1,4 @@
+
 local Material = loadstring(game:HttpGet("https://raw.githubusercontent.com/Kinlei/MaterialLua/master/Module.lua"))()
 
 local UI = Material.Load({
@@ -119,32 +120,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/
     end
 })
 Page.Button({
-    Text = "Murder Mystery 2",
-    Callback = function()
-        
-
-
-
-
-
-loadstring(game:HttpGet("loadstring(game:HttpGet("https://raw.githubusercontent.com/Ethanoj1/EclipseMM2/master/Script", true))()))();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    end
-})
-Page.Button({
     Text = "Squid Game",
     Callback = function()
         
@@ -153,7 +128,7 @@ Page.Button({
 
 
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/NocturneMoDz/Squid-Game/main/SCRIPT",true))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NocturneMoDz/Squid-Game/main/SCRIPT"))();
 
 
 
