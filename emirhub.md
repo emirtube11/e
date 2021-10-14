@@ -119,6 +119,32 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/
     end
 })
 Page.Button({
+    Text = "Murder Mystery 2",
+    Callback = function()
+        
+
+
+
+
+
+loadstring(game:HttpGet("loadstring(game:HttpGet("https://raw.githubusercontent.com/Ethanoj1/EclipseMM2/master/Script", true))()))();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    end
+})
+Page.Button({
     Text = "Big Paintball",
     Callback = function()
         
