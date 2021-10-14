@@ -145,7 +145,7 @@ loadstring(game:HttpGet("loadstring(game:HttpGet("https://raw.githubusercontent.
     end
 })
 Page.Button({
-    Text = "Squid Game (Game id 7502447797)",
+    Text = "Squid Game",
     Callback = function()
         
 
