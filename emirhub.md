@@ -2,7 +2,7 @@
 local Material = loadstring(game:HttpGet("https://raw.githubusercontent.com/Kinlei/MaterialLua/master/Module.lua"))()
 
 local UI = Material.Load({
-     Title = "Emir Hub",
+     Title = "Emir Hub (Baska Update Yok)",
      Style = 24,
      SizeX = 500,
      SizeY = 200,
@@ -10,7 +10,7 @@ local UI = Material.Load({
 })
 
 local Page = UI.New({
-    Title = "Welcome To Emir Hub!",
+    Title = "Welcome To Emir Hub! (Lütfen Emir HUBV2 Geciniz",
 
 
 })
