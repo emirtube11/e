@@ -10,7 +10,7 @@ local UI = Material.Load({
 })
 
 local Page = UI.New({
-    Title = "Welcome To Emir Hub! (Lütfen Emir HUBV2 Geciniz",
+    Title = "Welcome To Emir Hub!",
 
 
 })
